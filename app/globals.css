@@ -294,7 +294,11 @@ textarea {
   padding: 12px 20px;
   background: linear-gradient(135deg, var(--accent), var(--primary-strong));
   color: #03040a;
-  font-weight: 600;
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: 0.04em;
+  box-shadow: 0 12px 28px rgba(64, 242, 210, 0.35);
+  text-shadow: 0 2px 8px rgba(255, 255, 255, 0.35);
 }
 
 .panel__action:disabled {
