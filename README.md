@@ -21,7 +21,7 @@ npm install
 npm run dev
 ```
 
-Visit [http://localhost:3000](http://localhost:3000) to start drawing. Press "\&#24320;\&#22987;\&#26032;\&#19968;\&#36718;" to get a random prompt, sketch on the canvas, optionally leave a hint, and click "\&#35753; AI \&#29468;" to forward everything to `https://llmxapi.com/v1/chat/completions`.
+Visit [http://localhost:3000](https://localhost:3000) to start drawing. Press "\&#24320;\&#22987;\&#26032;\&#19968;\&#36718;" to get a random prompt, sketch on the canvas, optionally leave a hint, and click "\&#35753; AI \&#29468;" to forward everything to `https://llmxapi.com/v1/chat/completions`.
 
 ## Key Features
 
